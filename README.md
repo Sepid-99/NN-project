@@ -1,4 +1,4 @@
-## *Unsupervised Representation Learning by Predicting Image Rotations*
+## *Unsupervised Representation Learning by Predicting Image Rotations (Report)*
 
 ### Introduction
 
