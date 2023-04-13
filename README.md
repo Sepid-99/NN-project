@@ -3,7 +3,7 @@
 ### Introduction
 
 **Title:**      "Unsupervised Representation Learning by Predicting Image Rotations (Report)" 
-**Link:**       https://arxiv.org/pdf/1803.07728v1.pdf
+**Link:**        https://arxiv.org/pdf/1803.07728v1.pdf
 **Authors:**     Sepideh HajiHosseinKhani    
 **Institution:** York University    
 
